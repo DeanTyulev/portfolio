@@ -66,6 +66,17 @@ export default {
 
 
         },
+        {
+
+         title: 'Feel Good',
+         artist: 'Syn Cole',
+         src: require('./assets/Syn cole Feel Good.mp3') 
+
+
+ },
+
+
+
       ],
       player: new Audio(),
       
